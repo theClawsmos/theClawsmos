@@ -3,21 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theclawsmos&label=Profile%20views&color=e14747&style=plastic" alt="theclawsmos" /> </p>
 
-- 🔭 I’m currently working on **woof woof**
+- 🔭 I’m currently working on my jumping skills
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **python** & how to give squirrels trauma
 
-- 👯 I’m looking to collaborate on **woof woof**
+- 👯 I’m looking to collaborate on scaring cats
 
-- 🤝 I’m looking for help with **woof woof**
+- 🤝 I’m looking for help with sneaking dog treats
 
-- 👨‍💻 All of my projects are available at [https://github.com/theClawsmos](https://github.com/theClawsmos)
+- 👨‍💻 All of my projects are available at https://github.com/theClawsmos
 
-- 💬 Ask me about **woof woof**
+- 💬 Ask me about how to get through the doggy door
 
 - 💻 How to reach me **https://clawsmosgithub.carrd.co/**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
