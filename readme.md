@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm theClawsmos</h1>
-<h3 align="center">a dog who likes to code</h3>
+<h3 align="center">a guy who likes to code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theclawsmos&label=Profile%20views&color=e14747&style=plastic" alt="theclawsmos" /> </p>
 
-- 🔭 I’m currently working on my jumping skills
+- 🔭 I’m currently working on [DATA EXPUNGED]
 
-- 🌱 I’m currently learning **python** & how to give squirrels trauma
+- 🌱 I’m currently learning **python**
 
-- 👯 I’m looking to collaborate on scaring cats
+- 👯 I’m looking to collaborate on some stuff ig
 
-- 🤝 I’m looking for help with sneaking dog treats
+- 🤝 I’m looking for help with Web UI Dev
 
 - 👨‍💻 All of my projects are available at https://github.com/theClawsmos
 
-- 💬 Ask me about how to get through the doggy door
+- 💬 Ask me about some Windows stuff
 
 - 💻 How to reach me **https://clawsmosgithub.carrd.co/**
 
