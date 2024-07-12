@@ -11,7 +11,6 @@
 
 - 💬 Ask me about **ANYTHING about windows 11**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
